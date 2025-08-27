@@ -30,6 +30,6 @@ The dataset contains responses from **630 data professionals worldwide (2022)**.
 * Helps **aspiring data professionals** understand career paths, required skills, and salary trends.
 * Assists **recruiters & hiring managers** in benchmarking salaries and identifying talent distribution globally.
 
-**See my Dashboard Screeshot** (https://github.com/syedsameers/Data-Professionals-Survey-Report/blob/main/Data%20Professional%20Survey%20Breakdown.png)
+**See my Dashboard Screeshot** ![Data Professionals Survey Report](https://github.com/syedsameers/Data-Professionals-Survey-Report/blob/main/Data%20Professional%20Survey%20Breakdown.png)
 
 
